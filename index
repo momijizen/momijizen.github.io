@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>My Pages</h1>
-<p></p>
-</body>
-</html>
+---
+header:
+  image: "/images/1_head.jpg"
+---
