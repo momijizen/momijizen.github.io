@@ -7,9 +7,9 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 
 plugins:
-  #- jekyll-paginate
-  #- jekyll-sitemap
-  #- jekyll-gist
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
   - jekyll-feed
 
 footer:
