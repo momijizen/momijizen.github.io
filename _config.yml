@@ -1,26 +1,5 @@
 title: ORAWAN M.
-theme: jekyll-theme-architect #jekyll-theme-minimal
-logo: /images/maple.png
-minimal_mistakes_skin: contrast
-header:
-  image: "/images/1_head.jpg"
-#markdown: kramdown
-#remote_theme: mmistakes/minimal-mistakes
-
-include:
-  - index
-
-plugins:
-  - jekyll-include-cache
-
-footer:
-  links:
-   # - label: "Twitter"
-   #   icon: "fab fa-fw fa-twitter-square"
-   #   url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/momijizen"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/momijizen"
+description:  
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-architect
