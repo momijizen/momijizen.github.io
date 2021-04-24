@@ -2,15 +2,15 @@ title: ORAWAN M.
 theme: jekyll-theme-architect #jekyll-theme-minimal
 logo: /images/maple.png
 minimal_mistakes_skin: contrast
-
+header:
+  image: "/images/1_head.jpg"
 #markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 
+include:
+  - index
+
 plugins:
-  #- jekyll-paginate
-  #- jekyll-sitemap
-  #- jekyll-gist
-  #- jekyll-feed
   - jekyll-include-cache
 
 footer:
